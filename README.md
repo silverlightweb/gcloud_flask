@@ -12,4 +12,4 @@
 3.  Set project for gcloud sdk 
 ```bash
   gcloud project set <your-project-name>
-``
+```
