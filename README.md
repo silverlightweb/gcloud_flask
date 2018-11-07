@@ -2,13 +2,14 @@
 ***
 
 1.  command to check your current project:
-
-  `gcloud config list`
-
+```bash
+  gcloud config list
+```
 2.  To list existing configurations, run:
-
-  `gcloud config configurations list`.
-
+```bash
+  gcloud config configurations list
+```
 3.  Set project for gcloud sdk 
-
-  `gcloud project set <your-project-name>`.
+```bash
+  gcloud project set <your-project-name>
+``
