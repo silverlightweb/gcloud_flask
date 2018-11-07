@@ -17,3 +17,8 @@
 ```bash
   gcloud projects list --format="table[box](name:sort=1:reverse, createTime.date('%d-%m-%Y'))"
 ```
+5. To create a project, run:
+```bash
+gcloud projects create <ENTER-PROJECT-ID>
+```
+
