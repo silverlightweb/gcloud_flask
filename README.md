@@ -21,4 +21,7 @@
 ```bash
 gcloud projects create <ENTER-PROJECT-ID>
 ```
-
+6. The link that content the guidline for using Flask SQLALchemy
+```bash
+https://cloud.google.com/appengine/docs/flexible/python/using-cloud-sql
+```
